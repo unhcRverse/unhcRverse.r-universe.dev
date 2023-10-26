@@ -1,6 +1,8 @@
 # unhcRverse.r-universe.dev
 
-More on R Universe here: [What is R-universe and why is it useful?](https://jeroen.github.io/runiverse2021/#55)
+More on R Universe here: [What is R-universe and why is it useful?](https://jeroen.github.io/runiverse2021/#55).
+
+See also [R-universe is for everyone !](https://jeroen.github.io/runiverse2021)
 
 A list of packages related to UNHCR Work! 
 
