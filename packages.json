@@ -1,0 +1,70 @@
+[
+  {
+    "package": "unhcrthemes",
+    "url": "unhcr-dataviz/unhcrthemes"
+  },
+  {
+    "package": "cccmthemes",
+    "url": "unhcr-dataviz/cccmthemes"
+  },
+  {
+    "package": "cccmdown",
+    "url": "unhcr-dataviz/cccmdown"
+  },
+  {
+    "package": "unhcrtemplate",
+    "url": "unhcr-dataviz/unhcrtemplate"
+  },
+  {
+    "package": "unhcrdown",
+    "url": "unhcr-dataviz/unhcrdown"
+  },
+  {
+    "package": "refugees",
+    "url": "PopulationStatistics/refugees"
+  },
+  {
+    "package": "popdata",
+    "url": "PopulationStatistics/popdata"
+  },
+  {
+    "package": "rsdt",
+    "url": "galalH/rsdt"
+  },
+  {
+    "package": "rsr",
+    "url": "galalH/rsr"
+  },
+  {
+    "package": "countrycode",
+    "url": "vincentarelbundock/countrycode"
+  },
+  {
+    "package": "robotoolbox",
+    "url": "dickoa/robotoolbox"
+  },
+  {
+    "package": "rhdx",
+    "url": "dickoa/rhdx"
+  },
+  {
+    "package": "kobocruncher",
+    "url": "Edouard-Legoupil/kobocruncher"
+  },
+  {
+    "package": "HighFrequencyChecks",
+    "url": "Edouard-Legoupil/HighFrequencyChecks"
+  },
+  {
+    "package": "riddle",
+    "url": "Edouard-Legoupil/riddle"
+  },
+  {
+    "package": "graveler",
+    "url": "Edouard-Legoupil/graveler"
+  },
+  {
+    "package": "unhcrdatapackage",
+    "url": "Edouard-Legoupil/unhcrdatapackage"
+  }
+]
