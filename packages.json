@@ -66,5 +66,17 @@
   {
     "package": "unhcrdatapackage",
     "url": "Edouard-Legoupil/unhcrdatapackage"
+  },
+  {
+    "package": "XlsFormUtil",
+    "url": "unhcr-americas/XlsFormUtil"
+  },
+  {
+    "package": "IndicatorCalc",
+    "url": "unhcr-americas/IndicatorCalc"
+  },
+  {
+    "package": "VulnerabilityScoreCalibration",
+    "url": "unhcr-americas/VulnerabilityScoreCalibration"
   }
 ]
