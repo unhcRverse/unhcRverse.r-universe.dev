@@ -28,16 +28,16 @@
     "url": "https://github.com/PopulationStatistics/popdata"
   },
   {
+    "package": "countryRodes",
+    "url": "https://github.com/GDS-Data-Science/countryRodes"
+  },
+  {
     "package": "rsdt",
     "url": "https://github.com/galalH/rsdt"
   },
   {
     "package": "rsr",
     "url": "https://github.com/galalH/rsr"
-  },
-  {
-    "package": "countrycode",
-    "url": "https://github.com/vincentarelbundock/countrycode"
   },
   {
     "package": "robotoolbox",
